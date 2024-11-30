@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Chinmayee Technologies</title>  
+</head>
+<body>
+
+    <h1>Chinmayee Technologies</h1>
+
+    <h3>Employee Attendance Details</h3>
+
+     <!-- for date picker -->
+    <div class="date-picker">
+        <label for="fromDate">From : </label>
+        <input class="dates" type="date" id="fromDate">
+
+        <label for="toDate">To: </label>
+        <input class="dates" type="date" id="toDate">
+
+        <button onclick="filterData()">Submit</button>
+    </div>
+
+    
+
+    <!-- for table -->
+    <table id="employeeDetailsTable">
+        <thead>
+            <tr>
+                <th>Emp Name</th>
+                <th>Date</th>
+                <th>Login Time</th>
+                <th>Logout Time</th>
+                <th>Phone Number</th>
+            </tr>
+        </thead>
+        <tbody>
+           <!-- After clicking submit button according to dates employee details will show here -->
+        </tbody>
+    </table>
+
+    <script src="script.js">
+    </script>
+</body>
+</html>
