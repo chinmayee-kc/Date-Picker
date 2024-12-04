@@ -8,12 +8,33 @@
       "phoneNum": "1234567890"
   },
   {
-      "empName": "Pranita",
-      "date": "2024-11-29",
-      "loginTime": "08:30 AM",
-      "logoutTime": "04:30 PM",
-      "phoneNum": "9876543210"
+    "empName": "Supriya",
+    "date": "2024-12-04",
+    "loginTime": "09:45 AM",
+    "logoutTime": "06:59 PM",
+    "phoneNum": "8905518743"
+},
+  {
+      "empName": "Sushanth",
+      "date": "2024-12-03",
+      "loginTime": "08:00 AM",
+      "logoutTime": "07:10 PM",
+      "phoneNum": "7631195012"
   },
+  {
+    "empName": "Greeshma",
+    "date": "2024-12-01",
+    "loginTime": "10:42 AM",
+    "logoutTime": "05:00 PM",
+    "phoneNum": "8744193350"
+},
+{
+    "empName": "Deepan",
+    "date": "2024-11-28",
+    "loginTime": "09:22 AM",
+    "logoutTime": "05:50 PM",
+    "phoneNum": "903256121"
+},
   {
       "empName": "Uday",
       "date": "2024-11-27",

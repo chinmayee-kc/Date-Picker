@@ -72,6 +72,29 @@ td {
     background-color: #f1ecec;
 }
 
+.search-bar{
+    position: relative;
+    width: 80%;
+    max-width: 400px;
+    margin: 10px 0;
+}
 
+.search{
+    width: 100%;
+    padding: 12px 40px 12px 20px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    outline: none;
+}
 
+.search:hover{
+    border: 2px solid rgb(108, 108, 212);;
+}
+
+#search-icon{
+    position: absolute;
+    right: 10px;
+    top: 35%;
+    color: gray;
+}
 

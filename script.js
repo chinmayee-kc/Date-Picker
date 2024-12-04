@@ -52,3 +52,17 @@ function displayData(filteredData) {
         tableBody.appendChild(row);
     });
 }
+
+//this function is for searching the data 
+
+function searchTable() {
+    const searchInput = document.getElementById('searchInput').value.toLowerCase();
+    const filteredData = data.filter(item =>
+        item.empName.toLowerCase().includes(searchInput) ||
+        item.date.includes(searchInput) ||
+        item.phoneNum.includes(searchInput) ||
+        item.loginTime.includes(searchInput) ||
+        item.logoutTime.includes(searchInput)
+    );
+    displayData(filteredData);
+}

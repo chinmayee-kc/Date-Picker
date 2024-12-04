@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <head>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
     <title>Chinmayee Technologies</title>  
 </head>
 <body>
@@ -20,13 +21,17 @@
         <button onclick="filterData()">Submit</button>
     </div>
 
-    
+    <!-- for search bar -->
+     <div class="search-bar">
+         <input class="search" type="text" placeholder="Search..." id="searchInput" onkeyup="searchTable()" name="search" />
+         <i id="search-icon" class="fa fa-search" aria-hidden="true"></i>
+     </div>
 
     <!-- for table -->
     <table id="employeeDetailsTable">
         <thead>
             <tr>
-                <th>Emp Name</th>
+                <th>Employee Name</th>
                 <th>Date</th>
                 <th>Login Time</th>
                 <th>Logout Time</th>
