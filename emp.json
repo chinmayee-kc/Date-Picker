@@ -1,97 +1,165 @@
 
 [
-  {
-      "empName": "Chinmayee",
-      "date": "2024-11-28",
-      "loginTime": "09:00 AM",
-      "logoutTime": "05:00 PM",
-      "phoneNum": "1234567890"
-  },
-  {
-    "empName": "Supriya",
-    "date": "2024-12-04",
-    "loginTime": "09:45 AM",
-    "logoutTime": "06:59 PM",
-    "phoneNum": "8905518743"
-},
-  {
-      "empName": "Sushanth",
-      "date": "2024-12-03",
-      "loginTime": "08:00 AM",
-      "logoutTime": "07:10 PM",
-      "phoneNum": "7631195012"
-  },
-  {
-    "empName": "Greeshma",
-    "date": "2024-12-01",
-    "loginTime": "10:42 AM",
-    "logoutTime": "05:00 PM",
-    "phoneNum": "8744193350"
-},
-{
-    "empName": "Deepan",
-    "date": "2024-11-28",
-    "loginTime": "09:22 AM",
-    "logoutTime": "05:50 PM",
-    "phoneNum": "903256121"
-},
-  {
-      "empName": "Uday",
-      "date": "2024-11-27",
-      "loginTime": "09:10 AM",
-      "logoutTime": "05:50 PM",
-      "phoneNum": "9381970719"
-  },
-  {
-      "empName": "Rupini",
-      "date": "2024-10-20",
-      "loginTime": "10:09 AM",
-      "logoutTime": "08:14 PM",
-      "phoneNum": "9353214693"
-  },
-  {
-      "empName": "Charvi",
-      "date": "2024-10-30",
-      "loginTime": "09:00 AM",
-      "logoutTime": "06:00 PM",
-      "phoneNum": "9036300230"
-  },
-  {
-      "empName": "Adithya",
-      "date": "2024-09-21",
-      "loginTime": "08:23 AM",
-      "logoutTime": "05:01 PM",
-      "phoneNum": "8074556746"
-  },
-  {
-      "empName": "Rekha",
-      "date": "2024-11-02",
-      "loginTime": "11:36 AM",
-      "logoutTime": "08:56 PM",
-      "phoneNum": "8095222836"
-  },
-  {
-      "empName": "Sushma",
-      "date": "2024-11-15",
-      "loginTime": "08:45 AM",
-      "logoutTime": "05:10 PM",
-      "phoneNum": "8431939639"
-  },
-  {
-      "empName": "Rohith",
-      "date": "2024-11-10",
-      "loginTime": "09:20 AM",
-      "logoutTime": "07:48 PM",
-      "phoneNum": "9071063632"
-  },
-  {
-      "empName": "Gautham",
-      "date": "2024-11-06",
-      "loginTime": "08:18 AM",
-      "logoutTime": "05:12 PM",
-      "phoneNum": "7235698011"
-  }
+    {
+        "empName": "Chinmayee",
+        "date": "2024-11-28",
+        "loginTime": "09:00 AM",
+        "logoutTime": "05:00 PM",
+        "phoneNum": "1234567890"
+    },
+    {
+        "empName": "Supriya",
+        "date": "2024-12-04",
+        "loginTime": "09:45 AM",
+        "logoutTime": "06:59 PM",
+        "phoneNum": "1234567890"
+    },
+    {
+        "empName": "Sushanth",
+        "date": "2024-12-03",
+        "loginTime": "08:00 AM",
+        "logoutTime": "07:10 PM",
+        "phoneNum": "1234567890"
+    },
+    {
+        "empName": "Greeshma",
+        "date": "2024-10-01",
+        "loginTime": "10:42 AM",
+        "logoutTime": "05:00 PM",
+        "phoneNum": "1234567890"
+    },
+    {
+        "empName": "Purushotham",
+        "date": "2024-12-05",
+        "loginTime": "10:45 AM",
+        "logoutTime": "05:47 PM",
+        "phoneNum": "9110431006"
+    },
+    {
+        "empName": "Deepan",
+        "date": "2024-11-28",
+        "loginTime": "09:00 AM",
+        "logoutTime": "05:00 PM",
+        "phoneNum": "1234567890"
+    },
+    {
+        "empName": "Pranita",
+        "date": "2024-11-29",
+        "loginTime": "08:30 AM",
+        "logoutTime": "04:30 PM",
+        "phoneNum": "9876543210"
+    },
+    {
+        "empName": "Uday",
+        "date": "2024-11-27",
+        "loginTime": "09:10 AM",
+        "logoutTime": "05:50 PM",
+        "phoneNum": "9381970719"
+    },
+    {
+        "empName": "Rupini",
+        "date": "2024-10-20",
+        "loginTime": "10:09 AM",
+        "logoutTime": "08:14 PM",
+        "phoneNum": "9353214693"
+    },
+    {
+        "empName": "Charvi",
+        "date": "2024-10-30",
+        "loginTime": "09:00 AM",
+        "logoutTime": "06:00 PM",
+        "phoneNum": "9036300230"
+    },
+    {
+        "empName": "Adithya",
+        "date": "2024-09-21",
+        "loginTime": "08:23 AM",
+        "logoutTime": "05:01 PM",
+        "phoneNum": "8074556746"
+    },
+    {
+        "empName": "Rekha",
+        "date": "2024-11-02",
+        "loginTime": "11:36 AM",
+        "logoutTime": "08:56 PM",
+        "phoneNum": "8095222836"
+    },
+    {
+        "empName": "Sushma",
+        "date": "2024-11-15",
+        "loginTime": "08:45 AM",
+        "logoutTime": "05:10 PM",
+        "phoneNum": "8431939639"
+    },
+    {
+        "empName": "Rohith",
+        "date": "2024-11-10",
+        "loginTime": "09:20 AM",
+        "logoutTime": "07:48 PM",
+        "phoneNum": "9071063632"
+    },
+    {
+        "empName": "Gautham",
+        "date": "2024-11-06",
+        "loginTime": "08:18 AM",
+        "logoutTime": "05:12 PM",
+        "phoneNum": "7235698011"
+    },
+    {
+        "empName": "ShreeVani",
+        "date": "2024-12-10",
+        "loginTime": "08:22 AM",
+        "logoutTime": "05:40 PM",
+        "phoneNum": "8838383838"
+    },
+    {
+        "empName": "Manish",
+        "date": "2024-12-14",
+        "loginTime": "09:58 AM",
+        "logoutTime": "06:32 PM",
+        "phoneNum": "8053127643"
+    },
+    {
+        "empName": "Neeraja",
+        "date": "2024-12-19",
+        "loginTime": "08:50 AM",
+        "logoutTime": "05:43 PM",
+        "phoneNum": "9032217756"
+    },
+    {
+        "empName": "Giansha",
+        "date": "2024-12-25",
+        "loginTime": "6:30 AM",
+        "logoutTime": "03:58 PM",
+        "phoneNum": "7633109547"
+    },
+    {
+        "empName": "Pooja",
+        "date": "2024-12-26",
+        "loginTime": "09:57 AM",
+        "logoutTime": "07:46 PM",
+        "phoneNum": "8854299045"
+    },
+    {
+        "empName": "Harshitha",
+        "date": "2024-12-09",
+        "loginTime": "09:58 AM",
+        "logoutTime": "07:40 PM",
+        "phoneNum": "9836652210"
+    },
+    {
+        "empName": "Kusuma",
+        "date": "2024-12-23",
+        "loginTime": "11:57 AM",
+        "logoutTime": "09:16 PM",
+        "phoneNum": "9005773221"
+    },
+    {
+        "empName": "Akash",
+        "date": "2024-12-20",
+        "loginTime": "07:31 AM",
+        "logoutTime": "07:39 PM",
+        "phoneNum": "7740091834"
+    }
 ]
-
-
 

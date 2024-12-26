@@ -98,3 +98,23 @@ td {
     color: gray;
 }
 
+.pagination{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.page-btn{
+    background-color: #6c6cd4;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.page-btn:hover{
+    background-color: rgb(53, 133, 68);
+}
+
